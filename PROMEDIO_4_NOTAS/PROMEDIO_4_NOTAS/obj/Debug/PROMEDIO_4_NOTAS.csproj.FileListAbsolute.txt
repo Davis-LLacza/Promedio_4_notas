@@ -1,0 +1,10 @@
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\bin\Debug\PROMEDIO_4_NOTAS.exe.config
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\bin\Debug\PROMEDIO_4_NOTAS.exe
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\bin\Debug\PROMEDIO_4_NOTAS.pdb
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.csprojAssemblyReference.cache
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.Form1.resources
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.Properties.Resources.resources
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.csproj.GenerateResource.cache
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.exe
+C:\Users\Davis\Desktop\PROMEDIO_4_NOTAS\PROMEDIO_4_NOTAS\obj\Debug\PROMEDIO_4_NOTAS.pdb
